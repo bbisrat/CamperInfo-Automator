@@ -1,0 +1,1 @@
+# CamperInfo-Automator
